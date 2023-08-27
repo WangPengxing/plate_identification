@@ -1,0 +1,5 @@
+train: data/CCPD_data/train/images
+val: data/CCPD_data/val/images
+
+nc: 1
+names: ['single']

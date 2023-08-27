@@ -1,0 +1,5 @@
+train: data/Vehicles-Open/train/images
+val: data/Vehicles-Open/valid/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']

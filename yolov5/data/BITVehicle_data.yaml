@@ -1,0 +1,5 @@
+train: data/BITVehicle_data/train/images
+val: data/BITVehicle_data/val/images
+
+nc: 6
+names: ['bus', 'microbus', 'minivan', 'sedan', 'suv', 'truck']
